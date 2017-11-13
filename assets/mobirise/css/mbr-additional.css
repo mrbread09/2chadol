@@ -2621,10 +2621,13 @@ body {
 .cid-qARVmVFf7y {
   padding-top: 60px;
   padding-bottom: 90px;
-  background-color: #ffa0a4;
-  background: linear-gradient(90deg, #ffa0a4, #bf5e63);
+  background-color: #767676;
+  background: linear-gradient(90deg, #767676, #fe525b);
 }
 .cid-qARVmVFf7y .mbr-overlay {
   background-color: #5a31fb;
   background: linear-gradient(90deg, #5a31fb, #000000);
+}
+.cid-qARVmVFf7y .mbr-section-subtitle {
+  color: #ffffff;
 }
